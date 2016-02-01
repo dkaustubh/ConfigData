@@ -1,3 +1,4 @@
 ---
-lucky-word: India
-preamble: The lucky word is
+wordConfig:
+  lucky-word: India
+  preamble: The lucky word is
